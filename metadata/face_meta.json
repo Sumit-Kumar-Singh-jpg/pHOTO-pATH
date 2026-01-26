@@ -1,0 +1,26 @@
+[
+  {
+    "face_id": 0,
+    "filename": "photos\\IMG_20241109_154854.jpg",
+    "box": [
+      761,
+      974,
+      1146,
+      1359
+    ],
+    "name": "sumit",
+    "cluster": 0
+  },
+  {
+    "face_id": 1,
+    "filename": "photos\\IMG_20241109_161700.jpg",
+    "box": [
+      1313,
+      691,
+      2112,
+      1490
+    ],
+    "name": "side view",
+    "cluster": 0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "total": 2,
+  "n_clusters": 1,
+  "clusters": [
+    {
+      "id": 0,
+      "size": 2,
+      "rep_index": 1
+    }
+  ],
+  "noise": 0,
+  "algo": {
+    "algo": "dbscan",
+    "eps": 0.22,
+    "min_samples": 2
+  }
+}
