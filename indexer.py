@@ -9,7 +9,7 @@ import cv2
 
 PHOTO_DIR = "photos"
 META_DIR = "metadata"
-EMBED_FILE = os.path.join(META_DIR, "clip_embeddings.npy")
+EMBED_FILE = os.path.join(META_DIR, "embeddings.npy")
 FACE_FILE = os.path.join(META_DIR, "face_embeddings.npy")
 META_FILE = os.path.join(META_DIR, "metadata.json")
 

@@ -8,3 +8,4 @@ scikit-learn
 tqdm
 exifread
 face_recognition
+facenet-pytorch
